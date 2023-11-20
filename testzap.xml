@@ -4,65 +4,35 @@
                  xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">
    <Header>
        <Provider>Desenvolvedor do Feed</Provider>
-       <Email>desenvolvefeed@feed.com.br</Email>
+       <Email>test@hotmail.com</Email>
        <ContactName>Nome do Cliente</ContactName>
-       <PublishDate>2018-05-29T17:47:57</PublishDate>
-       <Telephone>11-3450 4646</Telephone>
+       <PublishDate>2023-11-20T23:00:00</PublishDate>
    </Header>
    <Listings>
      <Listing>
-      <ListingID>Imovel-01</ListingID>
-      <Title>Lindo Apartamento a venda em São Paulo</Title>
+      <ListingID>ImovelTeste</ListingID>
+      <Title>Apartamento Teste</Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>http://www.grupozap.com.br/imoveis/1005434</DetailViewUrl>
+      <DetailViewUrl>http://www.grupozap.com.br/imoveis/imovelteste</DetailViewUrl>
       <Media>
-          <Item medium="video">https://www.youtube.com/watch?v=MukVADdjQD8</Item>
-          <Item medium="image" caption="img1" primary="true">http://grupozap.com.br/foto01_152900.jpg</Item>
-          <Item medium="image" caption="img02">http://grupozap.com.br/foto02_1529463900.jpg</Item>
-          <Item medium="image" caption="img03">http://grupozap.com.br/foto03_1529463900.jpg</Item>
-          <Item medium="image" caption="img04">http://grupozap.com.br/foto04_1529463900.jpg</Item>
-          <Item medium="image" caption="img05">http://grupozap.com.br/foto05_1529463900.jpg</Item>
-          <Item medium="image" caption="img06">http://grupozap.com.br/foto06_1529463900.jpg</Item>
-          <Item medium="image" caption="img07">http://grupozap.com.br/foto07_1529463900.jpg</Item>
-          <Item medium="image" caption="img08">http://grupozap.com.br/foto08_1529463900.jpg</Item>
-          <Item medium="image" caption="img09">http://grupozap.com.br/foto09_1529463900.jpg</Item>
-          <Item medium="image" caption="img10">http://grupozap.com.br/foto10_1529463900.jpg</Item>
-          <Item medium="image" caption="img11">http://grupozap.com.br/foto11_1529463900.jpg</Item>
-          <Item medium="image" caption="img12">http://grupozap.com.br/foto12_1529463900.jpg</Item>
-          <Item medium="image" caption="img13">http://grupozap.com.br/foto13_1529463900.jpg</Item>
-          <Item medium="image" caption="img14">http://grupozap.com.br/foto14_1529463900.jpg</Item>
-          <Item medium="image" caption="img15">http://grupozap.com.br/foto15_1529463900.jpg</Item>
-          <Item medium="image" caption="img16">http://grupozap.com.br/foto16_1529463900.jpg</Item>
-          <Item medium="image" caption="img17">http://grupozap.com.br/foto17_1529463900.jpg</Item>
-          <Item medium="image" caption="img18">http://grupozap.com.br/foto18_1529463900.jpg</Item>
-          <Item medium="image" caption="img19">http://grupozap.com.br/foto19_1529463900.jpg</Item>
-          <Item medium="image" caption="img20">http://grupozap.com.br/foto20_1529463900.jpg</Item>
-          <Item medium="image" caption="img21">http://grupozap.com.br/foto21_1529463900.jpg</Item>
-          <Item medium="image" caption="img22">http://grupozap.com.br/foto22_1529463900.jpg</Item>
-          <Item medium="image" caption="img23">http://grupozap.com.br/foto23_1529463900.jpg</Item>
-          <Item medium="image" caption="img24">http://grupozap.com.br/foto24_1529463900.jpg</Item>
-          <Item medium="image" caption="img25">http://grupozap.com.br/foto25_1529463900.jpg</Item>
-          <Item medium="image" caption="img26">http://grupozap.com.br/foto26_1529463900.jpg</Item>
-          <Item medium="image" caption="img27">http://grupozap.com.br/foto27_1529463900.jpg</Item>
-          <Item medium="image" caption="img28">http://grupozap.com.br/foto28_1529463900.jpg</Item>
-          <Item medium="image" caption="img39">http://grupozap.com.br/foto29_1529463900.jpg</Item>
-          <Item medium="image" caption="img30">http://grupozap.com.br/foto30_1529463900.jpg</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/test_funny-217.jpg</Item>
+          <Item medium="video">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/test_funny-217.jpg</Item>
       </Media>
       <Details>
           <UsageType>Residential</UsageType>
           <PropertyType>Residential / Apartment</PropertyType>
           <Description><![CDATA[O apartamento de 80 metros quadrados no bairro Consolação com 2 quartos e 1 banheiro. A alguns minutos de shoppings, supermercados, escolas, estádios, padarias, estacionamentos, museus, farmácias, hospitais, transporte coletivo, universidades e restaurantes.
 O apartamento vai lhe possibilitar curtir os dias mais quentes na piscina. Além disso, sistema de segurança e quadra para prática de diferentes esportes para você e sua família. Elevador que garante o transporte das suas malas e compras. Academia para a prática de exercícios físicos. Encontra-se em um condomínio protegido por muros.]]></Description>
-          <ListPrice currency="BRL">860000</ListPrice>
+          <ListPrice currency="BRL">1000000</ListPrice>
           <LotArea unit="square metres">90</LotArea>
           <LivingArea unit="square metres">80</LivingArea>
-          <PropertyAdministrationFee currency="BRL">980</PropertyAdministrationFee>
-          <YearlyTax currency="BRL">4500</YearlyTax>
+          <PropertyAdministrationFee currency="BRL">2200</PropertyAdministrationFee>
+          <YearlyTax currency="BRL">3000</YearlyTax>
           <Bedrooms>2</Bedrooms>
           <Bathrooms>1</Bathrooms>
-          <Floors>2</Floors>
-          <Buildings>3</Buildings>
+          <Floors>0</Floors>
+          <Buildings>0</Buildings>
           <Suites>1</Suites>
           <Garage type="Parking Space">2</Garage>
           <Features>
@@ -71,88 +41,19 @@ O apartamento vai lhe possibilitar curtir os dias mais quentes na piscina. Além
              <Feature>Close to public transportation</Feature>
              <Feature>Close to schools</Feature>
              <Feature>Close to hospitals</Feature>
-             <Feature>Gravel</Feature>
-             <Feature>Cooling</Feature>
-             <Feature>Fenced Yard</Feature>
-             <Feature>Balcony</Feature>
-             <Feature>Warehouse</Feature>
-             <Feature>Fireplace</Feature>
-             <Feature>Furnished</Feature>
-             <Feature>Fully Wired</Feature>
-             <Feature>Cable Television</Feature>
-             <Feature>Internet Connection</Feature>
-             <Feature>Parking Garage</Feature>
-             <Feature>Laundry</Feature>
-             <Feature>Kitchen</Feature>
-             <Feature>Maid's Quarters</Feature>
-             <Feature>Exterior View</Feature>
-             <Feature>Heating</Feature>
-             <Feature>Home Office</Feature>
-             <Feature>Lawn</Feature>
-             <Feature>Reflective Pool</Feature>
-             <Feature>Number of stories</Feature>
-             <Feature>Pay-per-use Services</Feature>
-             <Feature>Controlled Access</Feature>
-             <Feature>TV Security</Feature>
-             <Feature>Security Guard on Duty</Feature>
-             <Feature>Intercom</Feature>
-             <Feature>Fenced Yard</Feature>
-             <Feature>Alarm System</Feature>
-             <Feature>Gym</Feature>
-             <Feature>Garden Area</Feature>
-             <Feature>Elevator</Feature>
-             <Feature>BBQ</Feature>
-             <Feature>Gourmet Area</Feature>
-             <Feature>Playground</Feature>
-             <Feature>Pool</Feature>
-             <Feature>Sports Court</Feature>
-             <Feature>Media Room</Feature>
-             <Feature>Tennis court</Feature>
-             <Feature>Green space / Park</Feature>
-             <Feature>Game room</Feature>
-             <Feature>Reception room</Feature>
-             <Feature>Band Practice Room</Feature>
-             <Feature>Massage Room</Feature>
-             <Feature>Sauna</Feature>
-             <Feature>Jogging track</Feature>
-             <Feature>Spa</Feature>
-             <Feature>Squash</Feature>
-             <Feature>Ocean View</Feature>
-             <Feature>Mountain View</Feature>
-             <Feature>Lake View</Feature>
-             <Feature>Veranda</Feature>
-             <Feature>Generator</Feature>
           </Features>
       </Details>
       <Location displayAddress="Street">
           <Country abbreviation="BR">Brasil</Country>
-          <State abbreviation="SP">Sao Paulo</State>
-          <City>São Paulo</City>
-          <Zone>Zona Sul</Zone>
-          <Neighborhood>Consolação</Neighborhood>
-          <Address>Rua Bela Cintra</Address>
-          <StreetNumber>539</StreetNumber>
-          <Complement>APT 10</Complement>
-          <PostalCode>01415-003</PostalCode>
-          <Latitude>-23.5531131</Latitude>
-          <Longitude>-46.659864</Longitude>
+          <State abbreviation="SP">Rio de Janeiro</State>
+          <City>Rio de Janeiro</City>
+          <Zone>Zona Oeste</Zone>
+          <Neighborhood>Jacarépagua</Neighborhood>
+          <Address>Av Teste</Address>
+          <StreetNumber>2222</StreetNumber>
+          <Complement>APT 100</Complement>
+          <PostalCode>22775-033</PostalCode>
       </Location>
-      <ContactInfo>
-          <Name>Imobiliaria Feliz</Name>
-          <Email>contato@imobiliariafeliz.com.br</Email>
-          <Website>http://www.imobiliariafeliz.com.br</Website>
-          <Logo>http://www.imobiliariafeliz.com.br/logo.jpg</Logo>
-          <OfficeName>Imobiliária Feliz - Agencia Principal</OfficeName>
-          <Telephone>(11) 3150-4646</Telephone>
-          <Location>
-             <Country abbreviation="BR">Brasil</Country>
-             <State abbreviation="SP">Sao Paulo</State>
-             <City>São Paulo</City>
-             <Neighborhood>Alto da Mooca</Neighborhood>
-             <Address>Rua Joá, 1890</Address>
-             <PostalCode>03178-200</PostalCode>
-          </Location>
-      </ContactInfo>
      </Listing>
    </Listings>
 </ListingDataFeed>

@@ -7,6 +7,7 @@
        <Email>test@hotmail.com</Email>
        <ContactName>Nome do Cliente</ContactName>
        <PublishDate>2023-11-20T23:00:00</PublishDate>
+       <Telephone>11-3450 4646</Telephone>
    </Header>
    <Listings>
      <Listing>
@@ -14,7 +15,7 @@
       <Title>Apartamento Teste</Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>http://www.grupozap.com.br/imoveis/imovelteste</DetailViewUrl>
+      <DetailViewUrl>http://www.grupozap.com.br/imoveis/1005434</DetailViewUrl>
       <Media>
           <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/test_funny-217.jpg</Item>
           <Item medium="video">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/test_funny-217.jpg</Item>
@@ -53,7 +54,25 @@ O apartamento vai lhe possibilitar curtir os dias mais quentes na piscina. Além
           <StreetNumber>2222</StreetNumber>
           <Complement>APT 100</Complement>
           <PostalCode>22775-033</PostalCode>
+          <Latitude>-23.5531131</Latitude>
+          <Longitude>-46.659864</Longitude>
       </Location>
+      <ContactInfo>
+          <Name>Imobiliaria Feliz</Name>
+          <Email>contato@imobiliariafeliz.com.br</Email>
+          <Website>http://www.imobiliariafeliz.com.br</Website>
+          <Logo>http://www.imobiliariafeliz.com.br/logo.jpg</Logo>
+          <OfficeName>Imobiliária Feliz - Agencia Principal</OfficeName>
+          <Telephone>(11) 3150-4646</Telephone>
+          <Location>
+             <Country abbreviation="BR">Brasil</Country>
+             <State abbreviation="SP">Sao Paulo</State>
+             <City>São Paulo</City>
+             <Neighborhood>Alto da Mooca</Neighborhood>
+             <Address>Rua Joá, 1890</Address>
+             <PostalCode>03178-200</PostalCode>
+          </Location>
+      </ContactInfo>
      </Listing>
    </Listings>
 </ListingDataFeed>

@@ -11,36 +11,33 @@
    </Header>
    <Listings>
      <Listing>
-      <ListingID>0001</ListingID>
+      <ListingID>0008</ListingID>
       <Title><![CDATA[Vida boa 1]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>http://app.cristinaroma.com.br/real_state/property/101/</DetailViewUrl>
       <Media>
-          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/test_funny-217.jpg</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-28_18-11-54_MBIF29w.png</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-30_01-22-10.png</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-10-04_15-41-27.png</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-28_18-11-41.png</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-28_09-57-15.png</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-10-04_15-41-03.png</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-10-05_21-33-26.png</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-28_10-06-26.png</Item>
+          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-27_01-53-40.png</Item>
       </Media>
       <Details>
           <UsageType>Residential</UsageType>
           <PropertyType>Residential / Apartment</PropertyType>
           <Description><![CDATA[Bloco 15 Casa 6 do Vida Boa 1]]></Description>
-          <ListPrice currency="BRL">1000000</ListPrice>
-          <LotArea unit="square metres">90</LotArea>
-          <LivingArea unit="square metres">80</LivingArea>
+          <ListPrice currency="BRL">1500000</ListPrice>
+          <LivingArea unit="square metres">120</LivingArea>
           <PropertyAdministrationFee currency="BRL">2200</PropertyAdministrationFee>
           <YearlyTax currency="BRL">3000</YearlyTax>
           <Bedrooms>2</Bedrooms>
-          <Bathrooms>1</Bathrooms>
-          <Floors>1</Floors>
-          <Buildings>1</Buildings>
-          <Suites>1</Suites>
-          <Garage type="Parking Space">2</Garage>
-          <Features>
-             <Feature>Close to main roads/avenues</Feature>
-             <Feature>Close to shopping centers</Feature>
-             <Feature>Close to public transportation</Feature>
-             <Feature>Close to schools</Feature>
-             <Feature>Close to hospitals</Feature>
-          </Features>
+          <Bathrooms>0</Bathrooms>
+          <Garage type="Parking Space">1</Garage>
       </Details>
       <Location displayAddress="All">
           <Country abbreviation="BR">Brasil</Country>
@@ -55,68 +52,6 @@
           <Latitude>-23.5531131</Latitude>
           <Longitude>-46.659864</Longitude>
       </Location>
-      <ContactInfo>
-          <Name>Videira Imoveis</Name>
-          <Email>atendimento@videiraimoveisrj.com.br</Email>
-          <Website>http://www.videiraimoveisrj.com.br</Website>
-          <Logo>https://videiraimoveisrj.com.br/wp-content/uploads/2020/02/VIDEIRA-IMOVEIS-LOGO.png</Logo>
-          <OfficeName>Videira Imoveis</OfficeName>
-          <Telephone>(21) 96427-1933</Telephone>
-      </ContactInfo>
-     </Listing>
-     <Listing>
-      <ListingID>0002</ListingID>
-      <Title><![CDATA[Vida boa 2]]></Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>http://app.cristinaroma.com.br/real_state/property/102/</DetailViewUrl>
-      <Media>
-          <Item medium="image">https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/test_funny-217.jpg</Item>
-      </Media>
-      <Details>
-          <UsageType>Residential</UsageType>
-          <PropertyType>Residential / Apartment</PropertyType>
-          <Description><![CDATA[Bloco 5 Casa 6 do Vida Boa 2]]></Description>
-          <ListPrice currency="BRL">1000000</ListPrice>
-          <LotArea unit="square metres">90</LotArea>
-          <LivingArea unit="square metres">80</LivingArea>
-          <PropertyAdministrationFee currency="BRL">2200</PropertyAdministrationFee>
-          <YearlyTax currency="BRL">3000</YearlyTax>
-          <Bedrooms>2</Bedrooms>
-          <Bathrooms>1</Bathrooms>
-          <Floors>1</Floors>
-          <Buildings>1</Buildings>
-          <Suites>1</Suites>
-          <Garage type="Parking Space">2</Garage>
-          <Features>
-             <Feature>Close to main roads/avenues</Feature>
-             <Feature>Close to shopping centers</Feature>
-             <Feature>Close to public transportation</Feature>
-             <Feature>Close to schools</Feature>
-             <Feature>Close to hospitals</Feature>
-          </Features>
-      </Details>
-      <Location displayAddress="Street">
-          <Country abbreviation="BR">Brasil</Country>
-          <State abbreviation="RJ">Rio de Janeiro</State>
-          <City>Rio de Janeiro</City>
-          <Zone>Zona Oeste</Zone>
-          <Neighborhood>Campo Grande</Neighborhood>
-          <Address>Estrada Cabuçu de Baixo</Address>
-          <StreetNumber>2222</StreetNumber>
-          <Complement>Bloco 15 Casa 6</Complement>
-          <PostalCode>23036-060</PostalCode>
-          <Latitude>-23.5531131</Latitude>
-          <Longitude>-46.659864</Longitude>
-      </Location>
-      <ContactInfo>
-          <Name>Videira Imoveis</Name>
-          <Email>atendimento@videiraimoveisrj.com.br</Email>
-          <Website>http://www.videiraimoveisrj.com.br</Website>
-          <Logo>https://videiraimoveisrj.com.br/wp-content/uploads/2020/02/VIDEIRA-IMOVEIS-LOGO.png</Logo>
-          <OfficeName>Videira Imoveis</OfficeName>
-          <Telephone>(21) 96427-1933</Telephone>
-      </ContactInfo>
      </Listing>
    </Listings>
 </ListingDataFeed>

@@ -1,7 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync"
-                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                 xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">
+<ListingDataFeed xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync http://xml.vivareal.com/vrsync.xsd">
     <Header>
         <Provider>Realtor</Provider>
         <Email>realtor@hotmail.com</Email>
@@ -11,51 +8,56 @@
     </Header>
     <Listings>
         <Listing>
+            <ListingID>0004</ListingID>
+            <Title> <![CDATA[Aloha 2 602]]> </Title>
+            <TransactionType/>
+            <PublicationType>STANDARD</PublicationType>
+            <Media></Media>
+            <Details>
+                <UsageType>Residential</UsageType>
+                <PropertyType>Residential / Apartment</PropertyType>
+                <Description> <![CDATA[]]> </Description>
+                <LivingArea unit="square metres">0</LivingArea>
+                <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+                <YearlyTax currency="BRL">0</YearlyTax>
+                <Bedrooms>0</Bedrooms>
+                <Bathrooms>0</Bathrooms>
+                <Garage type="Parking Space">0</Garage>
+            </Details>
+            <Location displayAddress="All">
+                <Country abbreviation="BR">Brasil</Country>
+                <State abbreviation="RJ">Rio de Janeiro</State>
+                <City>Rio de Janeiro</City>
+                <Neighborhood>Não informado</Neighborhood>
+                <Address>Rua Le Courbusier 50</Address>
+                <Complement>Bloco: 2, Apto: 602</Complement>
+                <PostalCode>22795-285</PostalCode>
+            </Location>
+        </Listing>
+        <Listing>
             <ListingID>0005</ListingID>
-            <Title>&lt;![CDATA[Aloha 2 605]]&gt;</Title>
+            <Title> <![CDATA[Aloha 2 605]]> </Title>
             <TransactionType>Sale/Rent</TransactionType>
             <PublicationType>STANDARD</PublicationType>
             <Media>
                 <Item medium="image">
-                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-28_18-11-54_MBIF29w.png
+                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/12/Captura_de_tela_de_2023-11-20_19-18-53_4el7yZz.png
                 </Item>
                 <Item medium="image">
-                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-30_01-22-10.png
-                </Item>
-                <Item medium="image">
-                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-10-04_15-41-27.png
-                </Item>
-                <Item medium="image">
-                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-28_18-11-41.png
-                </Item>
-                <Item medium="image">
-                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-28_09-57-15.png
-                </Item>
-                <Item medium="image">
-                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-10-04_15-41-03.png
-                </Item>
-                <Item medium="image">
-                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-10-05_21-33-26.png
-                </Item>
-                <Item medium="image">
-                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-28_10-06-26.png
-                </Item>
-                <Item medium="image">
-                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/11/Captura_de_tela_de_2023-09-27_01-53-40.png
+                    https://videiraimoveisrj.com.br/wp-content/uploads/2023/12/Captura_de_tela_de_2023-10-05_21-33-26.png
                 </Item>
             </Media>
             <Details>
                 <UsageType>Residential</UsageType>
                 <PropertyType>Residential / Apartment</PropertyType>
-                <Description>&lt;![CDATA[Descrição do imóvel aqui]]&gt;</Description>
-                <ListPrice currency="BRL">500000</ListPrice>
-                <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
+                <Description> <![CDATA[Descrição do imóvel aqui]]> </Description>
                 <LivingArea unit="square metres">155</LivingArea>
                 <PropertyAdministrationFee currency="BRL">133</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">232</YearlyTax>
                 <Bedrooms>3</Bedrooms>
                 <Bathrooms>0</Bathrooms>
                 <Garage type="Parking Space">2</Garage>
+                <ListPrice currency="BRL">500000</ListPrice>
             </Details>
             <Location displayAddress="All">
                 <Country abbreviation="BR">Brasil</Country>

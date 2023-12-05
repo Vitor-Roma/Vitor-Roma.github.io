@@ -1,5 +1,7 @@
-<ListingDataFeed xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync http://xml.vivareal.com/vrsync.xsd">
-    <Header>
+<?xml version='1.0' encoding='UTF-8'?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">    <Header>
         <Provider>Realtor</Provider>
         <Email>realtor@hotmail.com</Email>
         <ContactName>Realtor</ContactName>
@@ -55,7 +57,7 @@
                 <PropertyAdministrationFee currency="BRL">133</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">232</YearlyTax>
                 <Bedrooms>3</Bedrooms>
-                <Bathrooms>0</Bathrooms>
+                <Bathrooms>1</Bathrooms>
                 <Garage type="Parking Space">2</Garage>
                 <ListPrice currency="BRL">500000</ListPrice>
             </Details>

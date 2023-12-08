@@ -22,8 +22,8 @@
                 <LivingArea unit="square metres">0</LivingArea>
                 <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
                 <YearlyTax currency="BRL">0</YearlyTax>
-                <Bedrooms>0</Bedrooms>
-                <Bathrooms>0</Bathrooms>
+                <Bedrooms>1</Bedrooms>
+                <Bathrooms>1</Bathrooms>
                 <Garage type="Parking Space">0</Garage>
             </Details>
             <Location displayAddress="All">
@@ -39,7 +39,7 @@
         <Listing>
             <ListingID>0005</ListingID>
             <Title> <![CDATA[Aloha 2 605]]> </Title>
-            <TransactionType>Sale/Rent</TransactionType>
+            <TransactionType>For Sale</TransactionType>
             <PublicationType>STANDARD</PublicationType>
             <Media>
                 <Item medium="image">
